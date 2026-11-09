@@ -1,0 +1,4 @@
+market,microdata_spend_nzd,microdata_spend_billions,official_published_billions_rounded,difference_from_published_rounded_billions,consistent_with_rounded_official,source_label
+All markets,14314875805.312004,14.314875805312004,14.3,0.01487580531200372,True,MBIE Q2 2026 top-line: NZ$14.3b
+Australia,4352090543.394085,4.352090543394085,4.4,-0.0479094566059155,True,MBIE Q2 2026 top-line: NZ$4.4b
+United States,2182583708.1854043,2.1825837081854043,2.2,-0.01741629181459592,True,MBIE Q2 2026 top-line: NZ$2.2b
