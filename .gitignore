@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+.env
+.DS_Store
+.ipynb_checkpoints/
+# Full survey microdata is never redistributed.
+data/raw/
+*.sqlite
