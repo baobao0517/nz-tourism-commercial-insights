@@ -1,0 +1,6 @@
+market,period,actual_arrivals_approx,recovery_pct_of_2019,value_status
+All markets,YE Jun 2019,3890000.0,100.0,MBIE/Stats NZ published rounded
+All markets,YE Jun 2026,3670000.0,94.0,MBIE/Stats NZ published rounded
+Australia,YE Jun 2026,1590000.0,105.0,Published approximately; MBIE 105% and Stats NZ ~1.59m
+China,YE Jun 2026,315000.0,,Published approx. 315k; 2019 recovery NOT independently verified
+United States,YE Jun 2026,,105.0,MBIE published 105%; exact arrivals count NOT independently verified
