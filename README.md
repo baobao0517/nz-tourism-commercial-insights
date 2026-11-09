@@ -34,19 +34,27 @@ The GitHub repository includes a compact, self-contained interactive dashboard a
 
 ### Visitor mix: why averages can mislead
 
-[View visitor purpose composition in the interactive dashboard](dashboard/index.html#purpose)
+![100% stacked visitor purpose composition](outputs/purpose_mix_100pct_stacked.svg)
+
+[Explore this composition interactively](dashboard/index.html)
 
 ### Repeat visitors: market familiarity as a further segment
 
-[View repeat and first-time visitors in the dashboard](dashboard/index.html#repeat)
+![Repeat versus first-time visitors](outputs/first_repeat_100pct_stacked.svg)
+
+[Explore repeat visitation interactively](dashboard/index.html)
 
 ### Spending patterns: composition is not the same as dollars per visitor
 
-[Compare spending composition and mean NZ$ by category in the dashboard](dashboard/index.html#spending)
+![Visitor spending category composition](outputs/spend_category_mix_100pct_stacked.svg)
+
+[Toggle spending shares versus dollars per visitor](dashboard/index.html)
 
 ### Bubble chart: market size × purpose × spending
 
-[Explore the interactive market-size × purpose × spend bubble chart](dashboard/index.html#bubble)
+![Market-size × purpose × per-visit-spend bubble chart](outputs/bubble_market_size_spend.svg)
+
+[Explore this bubble chart and switch between per-visit and daily spending](dashboard/index.html)
 
 The dashboard includes a hoverable bubble chart showing IVS weighted population estimates and per-visit/daily spend. A larger offline version with additional plots is included in the downloadable V1.0 package.
 
