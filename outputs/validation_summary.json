@@ -1,0 +1,46 @@
+{
+  "period": "2025-07-01 to 2026-06-30",
+  "source_zip": "international-visitor-survey-data-quarter-2-2026.zip",
+  "core_market_rows": 3785,
+  "by_market_raw_samples": {
+    "Australia": 2496,
+    "China": 714,
+    "United States": 575
+  },
+  "maximum_absolute_category_to_treated_spend_difference_nzd": 0.000010300002031726763,
+  "core_expenditure_columns": [
+    "cost_accomm",
+    "cost_food_drink",
+    "cost_eating_out",
+    "cost_dom_travel",
+    "cost_dom_flights",
+    "cost_car_rentals",
+    "cost_entertainment",
+    "cost_day_cruise",
+    "cost_shopping",
+    "cost_tour_package",
+    "cost_other"
+  ],
+  "population_weight_used_for_spend_and_purpose": true,
+  "vem_pop_weight_used_for_transport_and_accommodation": true,
+  "ivs_vs_stats_arrivals_warning": "IVS weighted population estimates are NOT independently observed border arrivals",
+  "custom_sampling_confidence_intervals_computed": false,
+  "category_composition_all_purposes_rows": 21,
+  "ivs_archive_sha256": "94abd9141c548f18bbd9cba47fe2f360b3dd1dd4a24e217038abea77e3bede9f",
+  "csv_table_count": 22,
+  "full_main_header_rows": 36563,
+  "all_market_year_ended_june_2026_n": 9071,
+  "all_market_weighted_expenditure_nzd": 14314875805.312004,
+  "orphan_keys_all_ivs_tables": 0,
+  "first_repeat_share_check": true,
+  "reconciliation_to_official_rounded_totals": true,
+  "china_2019_recovery_exact_available": false,
+  "published_annual_china_spend_separately_reconciled": false,
+  "published_arrival_series_full_market_monthly_available": false,
+  "fully_published_statistical_uncertainty_for_custom_subgroups": false,
+  "market_spend_official_rme_pct": {
+    "Australia": 6.9,
+    "China": 11.4,
+    "United States": 12.4
+  }
+}
