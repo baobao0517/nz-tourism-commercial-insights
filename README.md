@@ -8,9 +8,9 @@
 
 **Analysis period:** 1 July 2025 to 30 June 2026. **Historical context:** equivalent year ended June 2019, used as background rather than a second detailed analysis period.
 
-[**Explore the interactive dashboard**](dashboard/index.html) · [**Executive brief**](docs/EXECUTIVE_SUMMARY.md) · [**Methods**](docs/METHODOLOGY.md) · [**Validation**](docs/DATA_VALIDATION.md) · [**Data sources**](docs/SOURCES.md)
+[**🌐 Live Dashboard — open as a webpage**](https://baobao0517.github.io/nz-tourism-commercial-insights/) · [**Executive brief**](docs/EXECUTIVE_SUMMARY.md) · [**Methods**](docs/METHODOLOGY.md) · [**Validation**](docs/DATA_VALIDATION.md) · [**Data sources**](docs/SOURCES.md)
 
-The GitHub repository includes a compact, self-contained interactive dashboard at `dashboard/index.html`, with a Pages-ready copy at `docs/index.html`. The larger offline dashboard and full chart exports are distributed separately in the downloadable V1.0 project ZIP. If GitHub Pages is enabled from `/docs`, visitors can use the hosted site.
+**[Live Dashboard (GitHub Pages)](https://baobao0517.github.io/nz-tourism-commercial-insights/)** — opens the interactive dashboard directly in a browser once Pages is activated. Publishing source: **`main` branch, `/docs` folder**. Until then, the [dashboard source file](dashboard/index.html) is available in this repository. The larger offline dashboard and full chart exports are distributed separately in the downloadable V1.0 project ZIP.
 
 ---
 
@@ -36,25 +36,25 @@ The GitHub repository includes a compact, self-contained interactive dashboard a
 
 ![100% stacked visitor purpose composition](outputs/purpose_mix_100pct_stacked.svg)
 
-[Explore this composition interactively](dashboard/index.html)
+[Explore this composition interactively](https://baobao0517.github.io/nz-tourism-commercial-insights/)
 
 ### Repeat visitors: market familiarity as a further segment
 
 ![Repeat versus first-time visitors](outputs/first_repeat_100pct_stacked.svg)
 
-[Explore repeat visitation interactively](dashboard/index.html)
+[Explore repeat visitation interactively](https://baobao0517.github.io/nz-tourism-commercial-insights/)
 
 ### Spending patterns: composition is not the same as dollars per visitor
 
 ![Visitor spending category composition](outputs/spend_category_mix_100pct_stacked.svg)
 
-[Toggle spending shares versus dollars per visitor](dashboard/index.html)
+[Toggle spending shares versus dollars per visitor](https://baobao0517.github.io/nz-tourism-commercial-insights/)
 
 ### Bubble chart: market size × purpose × spending
 
 ![Market-size × purpose × per-visit-spend bubble chart](outputs/bubble_market_size_spend.svg)
 
-[Explore this bubble chart and switch between per-visit and daily spending](dashboard/index.html)
+[Explore this bubble chart and switch between per-visit and daily spending](https://baobao0517.github.io/nz-tourism-commercial-insights/)
 
 The dashboard includes a hoverable bubble chart showing IVS weighted population estimates and per-visit/daily spend. A larger offline version with additional plots is included in the downloadable V1.0 package.
 
